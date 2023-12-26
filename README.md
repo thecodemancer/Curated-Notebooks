@@ -1,6 +1,9 @@
 # 📒 Curated-Notebooks
 A series of instructive and educational notebooks organized by topic areas.
 
+![Posts](https://github.com/thecodemancer/Curated-Notebooks/assets/1399605/651db87b-295f-4829-8966-2e631409915d)
+
+
 ## AI & Machine Learning
 
 ✅ Music Transcription with Transformers
