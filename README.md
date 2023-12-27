@@ -47,7 +47,7 @@ The HParams dashboard in TensorBoard provides several tools to help with this pr
 
 https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/hyperparameter_tuning_with_hparams.ipynb
 
-## Data & Analytics
+## 👨‍💻 Data & Analytics
 
 ### RAPIDS cuDF for accelerated data science on Google Colab
 Use RAPIDS cuDF and GPUs to turbocharge your data analysis work.
@@ -69,7 +69,7 @@ This is a quick and dirty way to get a sense of what's trending on Twitter relat
 
 https://colab.research.google.com/drive/1WIcVZgbrU0DYOQqaxuaCLKY6CoLBV18O
 
-## Cloud Computing
+## 👨‍💻 Cloud Computing
 
 ### Colab + BigQuery — Perfect Together
 The goal of this Colab notebook is to highlight some benefits of using Google BigQuery and Colab together to perform some common data science tasks.
@@ -91,7 +91,7 @@ In this tutorial, you learn to use AutoML to create a tabular binary classificat
 
 https://colab.research.google.com/github/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/explainable_ai/sdk_automl_tabular_binary_classification_batch_explain.ipynb
 
-## Data Visualization
+## 👨‍💻 Data Visualization
 
 ### Explore Patent Database with ML
 Patent landscaping is an analytical approach commonly used by corporations, patent offices, and academics to better understand the potential technical coverage of a large number of patents where manual review (i.e., actually reading the patents) is not feasible due to time or cost constraints.
@@ -113,7 +113,7 @@ Exploratory Data Analysis or (EDA) is understanding the data sets by summarizing
 
 https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb
 
-## Education
+## 👨‍💻 Education
 
 ### Colab Primer
 Quick primer on Colab and Jupyter notebooks
@@ -130,7 +130,7 @@ In this tutorial, we will be exploring some advanced Python concepts and techniq
 
 https://colab.research.google.com/drive/1gCqFEquqNvEoTDX3SNhR2PZkXWPHKXnc?usp=sharing
 
-## Fun
+## 👨‍💻 Fun
 
 ### Fast Style Transfer for Arbitrary Styles
 Based on the model code in magenta and the publication: Exploring the structure of a real-time, arbitrary neural artistic stylization network.
@@ -147,7 +147,7 @@ This example uses tf.keras to build a language model and train it on a Cloud TPU
 
 https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/shakespeare_with_tpu_and_keras.ipynb
 
-## Science
+## 👨‍💻 Science
 
 ### AlphaFold
 This Colab notebook allows you to easily predict the structure of a protein using a slightly simplified version of AlphaFold v2.3.2.
@@ -169,7 +169,7 @@ Notebook for running Molecular Dynamics (MD) simulations using OpenMM engine and
 
 https://colab.research.google.com/github/pablo-arantes/Making-it-rain/blob/main/Amber.ipynb
 
-## BONUS:
+## 👨‍💻 BONUS:
 
 ### Dataset Search
 
