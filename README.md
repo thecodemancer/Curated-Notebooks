@@ -8,7 +8,7 @@ A series of instructive and educational notebooks organized by topic areas.
 
 ### Music Transcription with Transformers
 
-Interactive demo of a few music transcription models created by Google's Magenta team. You can upload audio and have one of our models automatically transcribe it.
+Interactive demo of a few music transcription models created by Google's Magenta team. You can upload an audio and get the transcription.
 
 https://colab.research.google.com/github/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb
 
